@@ -1,5 +1,6 @@
 streamlit>=1.31.0
 opencv-python
+cv2 streamlit>=1.31.0
 Pillow>=10.2.0
 ultralytics>=8.1.0
 gTTS>=2.5.0
